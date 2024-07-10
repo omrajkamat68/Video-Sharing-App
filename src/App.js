@@ -33,7 +33,7 @@ function App() {
       params: {
         part: "snippet",
         maxResults: 5,
-        key: "AIzaSyDwLgp4MgSgfE8Jma1A4BjxAME3j1XSjo0",
+        key: /*Put the google api here*/,
         q: searchItem,
       }
     });
